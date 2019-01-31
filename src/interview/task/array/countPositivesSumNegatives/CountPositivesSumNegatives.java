@@ -1,4 +1,4 @@
-package interview.task.Array.countPositivesSumNegatives;
+package interview.task.array.countPositivesSumNegatives;
 
 import java.util.Arrays;
 

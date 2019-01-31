@@ -1,4 +1,4 @@
-package interview.task.Array.ArrayReversal;
+package interview.task.array.arrayReversal;
 
 import static org.junit.Assert.assertArrayEquals;
 

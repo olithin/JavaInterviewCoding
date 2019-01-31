@@ -1,4 +1,4 @@
-package interview.task.Array.ArrayReversal;
+package interview.task.array.arrayReversal;
 
 import org.junit.Test;
 
