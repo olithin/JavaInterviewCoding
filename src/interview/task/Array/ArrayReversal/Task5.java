@@ -1,4 +1,6 @@
-package interview.task.ArrayReversal;
+package interview.task.Array.ArrayReversal;
+
+import static org.junit.Assert.assertArrayEquals;
 
 public class Task5 {
     public static void main(String[] args) {
@@ -21,5 +23,6 @@ public class Task5 {
             input[input.length - 1 - i] = temp;
         }
     }
+
 }
 

@@ -1,4 +1,4 @@
-package interview.task.ArrayReversal;
+package interview.task;
 
 public class Task4 {
 
